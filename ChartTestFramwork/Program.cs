@@ -12,6 +12,7 @@ namespace ChartTestFramwork
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
         /// 
+        ///neu von saleh
 
         private static IModelLocalData modelLocaldata;
         private static IModelECGDevice modelEKGDevice;
